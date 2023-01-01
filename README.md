@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 - Link:https://app.netlify.com/teams/semirpljakic
+- 📫 - Link:https://www.buymeacoffee.com/pljakicsemir
 
 <!---
 semirpljakic/semirpljakic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
